@@ -1,0 +1,11 @@
+{
+  "name": "realtime-pizza",
+  "version": "1.0.0",
+  "description": "This is my Pizza App",
+  "main": "index.js",
+  "author": "Shantanu Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
